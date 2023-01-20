@@ -1,0 +1,13 @@
+{
+    "name": "sonic-cpp",
+    "version": "2023-01-16",
+    "homepage": "https://github.com/bytedance/sonic-cpp",
+    "description": "A fast JSON serializing & deserializing library, accelerated by SIMD.",
+    "license": "Apache-2.0",
+    "dependencies": [
+        {
+            "name": "vcpkg-cmake",
+            "host": true
+        }
+    ]
+}
